@@ -42,8 +42,6 @@
 -   [Dark Souls 3 OST](https://www.youtube.com/watch?v=PrYPqtWWB3s&t=3963s&ab_channel=Shirrako)
 <!-- YOUTUBE:END -->
 
-<br />
-
 ### My Links 🔗
 
 [<img align='left' alt='portfolio website' width='22px' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' />][website]
@@ -67,7 +65,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CoopsCodes&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Cooper's github stats](https://github-readme-stats.vercel.app/api?username=CoopsCodes&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoopsCodes)](https://github.com/anuraghazra/github-readme-stats) -->
 
