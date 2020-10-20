@@ -10,6 +10,7 @@
 -   ⚡ Fun fact: ... Gamer and Cat Parent
 
 <br />
+<br />
 
 ### My Stack 🥞
 
@@ -33,6 +34,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+<br />
 
 ### What I'm usually coding to 🎧
 
@@ -43,6 +45,9 @@
 -   [Dark Souls 3 OST](https://www.youtube.com/watch?v=PrYPqtWWB3s&t=3963s&ab_channel=Shirrako)
 <!-- YOUTUBE:END -->
 
+<br />
+<br />
+
 ### My Links 🔗
 
 [<img align='left' alt='portfolio website' width='22px' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' />][website]
@@ -51,6 +56,7 @@
 
 [<img align='left' alt='linkedin' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][linkedin]
 
+<br />
 <br />
 
 ### Blog posts
@@ -64,7 +70,8 @@
 -   [Building an A4 resume to add to your website (and making it printable)](https://dev.to/coopercodes/building-an-a4-resume-to-add-to-your-website-and-making-it-printable-1la8)
 <!-- BLOG-POST-LIST:END -->
 
----
+<br />
+<br />
 
 [![Cooper's github stats](https://github-readme-stats.vercel.app/api?username=CoopsCodes&count_private=true&show_icons=true&bg_color=,920096,dbff00&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
