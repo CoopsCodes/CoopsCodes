@@ -58,11 +58,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grace Papers work update](https://dev.to/coopercodes/grace-papers-work-update-3335)
 - [Set-up Tailwind in a Next.JS app](https://dev.to/coopercodes/set-up-tailwind-in-a-next-js-app-2dg7)
 - [object-orientated programming - an intro.](https://dev.to/coopercodes/object-orientated-programming-an-intro-1g62)
 - [JavaScript Functions: a breakdown.](https://dev.to/coopercodes/javascript-functions-a-breakdown-i4)
 - [Building the React Scaffolding from scratch](https://dev.to/coopercodes/building-a-react-app-from-scratch-1h)
-- [Building an A4 resume to add to your website (and making it printable)](https://dev.to/coopercodes/building-an-a4-resume-to-add-to-your-website-and-making-it-printable-1la8)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
