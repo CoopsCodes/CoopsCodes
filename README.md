@@ -58,11 +58,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gratitude](https://dev.to/coopercodes/gratitude-2hn0)
 - [A11y :~ Alert](https://dev.to/coopercodes/a11y-alert-dgj)
 - [Grace Papers work update](https://dev.to/coopercodes/grace-papers-work-update-3335)
 - [Set-up Tailwind in a Next.JS app](https://dev.to/coopercodes/set-up-tailwind-in-a-next-js-app-2dg7)
 - [object-orientated programming - an intro.](https://dev.to/coopercodes/object-orientated-programming-an-intro-1g62)
-- [JavaScript Functions: a breakdown.](https://dev.to/coopercodes/javascript-functions-a-breakdown-i4)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
