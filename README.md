@@ -1,7 +1,7 @@
 ### 👋🏽 there, welcome to my github
 
--   🔭 I’m currently working on ... CSS Art pieces and Next.JS apps
--   🌱 I’m currently learning ... CSS and Generative Art, Next.JS
+-   🔭 I’m currently working on ... A React and Laravel stack fro my job
+-   🌱 I’m currently learning ... ThreeJS, Laravel and always React
 -   👯 I’m looking to collaborate on ... Open to suggestions, something full stack would be great
 -   🤔 I’m looking for help with ... Everything haha
 -   💬 Ask me about ... What would you like to know?
