@@ -1,8 +1,8 @@
 ### 👋🏽 there, welcome to my github
 
 -   🔭 I’m currently working on ... A React and Laravel stack in my job.
--   🌱 I’m currently learning ... ThreeJS, Laravel and always React
--   👯 I’m looking to collaborate on ... Open to suggestions, something full stack would be great
+-   🌱 I’m currently learning ... ThreeJS, Laravel, NextJS, Figma and UI/UX design, and always React
+-   👯 I’m looking to collaborate on ... Open to suggestions, thought I am usually focusing on one personal project at a time. I woulf love to blog and write more.
 -   🤔 I’m looking for help with ... Everything haha
 -   💬 Ask me about ... What would you like to know?
 -   📫 How to reach me: ... [Contact Me via my Website](https://www.cooper-codes.dev/contactMe)
