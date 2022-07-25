@@ -5,9 +5,8 @@
 -   👯 I’m looking to collaborate on ... Open to suggestions, though I am usually focusing on one personal project at a time. I would love to blog and write more.
 -   🤔 I’m looking for help with ... Everything haha
 -   💬 Ask me about ... What would you like to know?
--   📫 How to reach me: ... [Contact Me via my Website](https://www.cooper-codes.dev/contactMe)
 -   😄 Pronouns: ... He/Him/They
--   ⚡ Fun fact: ... Gamer and Cat Parent
+-   ⚡ Fun fact: ... Gamer and doting Cat Parent
 
 <br />
 
